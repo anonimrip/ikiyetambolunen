@@ -10,7 +10,7 @@ namespace nothesaplama
             int[] dize1 = new int[10];
             for (int i = 0; i < dize1.Length; i++)
             {
-                Console.WriteLine(i + ". Yaşını Giriniz: ");
+                Console.WriteLine(i + ". Değer Girinşz: ");
                 dize1[i] = Convert.ToInt32(Console.ReadLine());
 
             }
